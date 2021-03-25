@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+903918794 source:c:\users\usuario\documents\2021-i\modelos\cbs\lcgrand.c
+
+1616599259 source:c:\users\usuario\documents\2021-i\modelos\cbs\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"lcgrand.h"
+
+903918616 c:\users\usuario\documents\2021-i\modelos\cbs\lcgrand.h
+	"lcgrand.h"
+

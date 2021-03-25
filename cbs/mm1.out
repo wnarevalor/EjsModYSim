@@ -1,0 +1,20 @@
+Single-server queueing system
+
+Mean interarrival time      2.000 minutes
+
+Mean service time           5.000 minutes
+
+Length of the simulation 1440.000 minutes
+
+Caso 1 
+TV: $18040.000000
+TP: 0.000000
+
+Caso 2 
+TV: $18760.000000
+TP: 8.000000
+
+Caso 3 
+TV: $18040.000000
+TP: 3.000000
+
